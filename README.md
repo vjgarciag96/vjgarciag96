@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-<img align="center" src="https://blog.jetbrains.com/wp-content/uploads/2017/05/kotlin-android_kotlin.png" width=500/>
+<img src="https://blog.jetbrains.com/wp-content/uploads/2017/05/kotlin-android_kotlin.png" width=500/>
 <!--
 **vjgarciag96/vjgarciag96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
